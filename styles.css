@@ -1,0 +1,159 @@
+@media (max-width:400px){
+    body{
+        margin: 0;
+        font-family: cubano;
+        background-color: #85be4d;
+    }
+    header{
+        font-size: 500%;
+        font-family: cubano;
+    }
+    header>img{
+        width: 7rem;
+        max-width: 80%;
+        padding: .5rem;
+    }
+    nav>a{
+        padding: .5rem;
+        text-decoration: none;
+    }
+    nav>a:first-child{
+        color: #1e5903;
+    }
+    nav>a:nth-child(2){
+        color: #cf595b;
+    }
+    nav>a:nth-child(3){
+        color: #ebe280;
+    }
+    nav>a:nth-child(4){
+        color: #ffffff;
+    }
+    .Work{
+        background-color: #1e5903;
+        padding: 1rem;
+        color: #ffffff;
+    }
+    .Work>h1{
+        font-size: 300%;
+    }
+    .Work>img{
+        width: fit-content;
+        max-width: 100%;
+    }
+    .About{
+        background-color: #cf595b;
+        padding: 1rem;
+        color: #ffffff;
+    }
+    .About>h1{
+        font-size: 300%;
+    }
+    .About>p{
+        color: #ffffff;
+        font-size: 150%;
+    }
+    .Gallery{
+        background-color: #ebe280;
+        padding: 1rem;
+        color: white;
+    }
+    .Gallery>h1{
+        font-size: 300%;
+    }
+    .Gallery>img{
+        padding: 1rem;
+        width: fit-content;
+        max-width: 90%;
+    }
+    .Contact>h1{
+        color: #ffffff;
+        padding: 1rem;
+        font-size: 300%;
+    }
+    .Contact>p{
+        padding: 1rem;
+        color: #ffffff;
+        font-size: 150%;
+    }
+    }
+    body{
+        margin: 0;
+        font-family: cubano;
+        background-color: #85be4d;
+    }
+    header{
+        font-size: 1000%;
+        font-family: cubano;
+    }
+    header>img{
+        width: 20rem;
+        max-width: 800%;
+        padding: .5rem;
+    }
+    nav>a{
+        padding: .5rem;
+        text-decoration: none;
+    }
+    nav>a:first-child{
+        color: #1e5903;
+    }
+    nav>a:nth-child(2){
+        color: #cf595b;
+    }
+    nav>a:nth-child(3){
+        color: #ebe280;
+    }
+    nav>a:nth-child(4){
+        color: #ffffff;
+    }
+    .Work{
+        background-color: #1e5903;
+        padding: 1rem;
+        color: #ffffff;
+    }
+    .Work>h1{
+        font-size: 500%;
+    }
+    .Work>img{
+        display: flex;
+        align-content: flex-end;
+        max-width: 50%;
+    }
+    .About{
+        background-color: #cf595b;
+        padding: 1rem;
+        color: #ffffff;
+    }
+    .About>h1{
+        font-size: 500%;
+    }
+    .About>p{
+        color: #ffffff;
+        font-size: 300%;
+    }
+    .Gallery{
+        background-color: #ebe280;
+        padding: 1rem;
+        color: white;
+    }
+    .Gallery>h1{
+        font-size: 500%;
+    }
+    .Gallery>img{
+        padding: 1rem;
+        display: flexbox;
+        max-width: 50%;
+    }
+    .Contact>h1{
+        color: #ffffff;
+        padding: 1rem;
+        font-size: 500%;
+    }
+    .Contact>p{
+        padding: 1rem;
+        color: #ffffff;
+        font-size: 300%;
+    }
+    
+    
